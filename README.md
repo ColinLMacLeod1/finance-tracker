@@ -1,1 +1,1 @@
-finance-tracker
+webapp-boilerplate
